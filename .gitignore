@@ -1,0 +1,5 @@
+target/
+build/
+nbproject/private/
+data/
+.DS_Store
